@@ -17,6 +17,6 @@
 ## Note:
 You can adjust the difficulty of the AI by changing the number in this line 'ai = train(100)'
 
-#Gameplay:
+# Gameplay:
 
 ![nim-gamplay](https://github.com/Hozayfa-18/The-NIM-game/assets/80411230/ac7ea148-43a7-4670-9f43-176942d2dc55)
