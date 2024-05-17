@@ -9,7 +9,7 @@ How to play NIM:
 
 
 
-How to play the game:
+How to Try the game:
 1. Download the code (nim.py,play.py)
 2. run play.py
 3. enjoy
