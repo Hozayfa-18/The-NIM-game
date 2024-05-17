@@ -1,3 +1,14 @@
+How to play NIM:
+1. Setup: Begin by arranging the piles of objects. You can decide the number of piles and the number of objects in each pile      before starting the game. However, the total number of objects should not be too large to keep the game manageable.
+
+2. Turns: Players take turns removing objects from the piles. On each turn, a player must choose one pile and remove at least     one object from it.
+
+3. Objective: The goal of the game is to force your opponent to take the last object. In other words, you want to leave your      opponent with no legal moves on their turn.
+
+4. Winning: The player who takes the last object from the last remaining pile is declared the winner.
+
+
+
 How to play the game:
 1. Download the code (nim.py,play.py)
 2. run play.py
